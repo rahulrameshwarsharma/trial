@@ -1,8 +1,8 @@
 
 function App() {
   return (
-    <div className="App">
-      Hello Rahul project achche se banana!!!
+    <div className="app">
+      <h1 className="nav-title">Hello Rahul project achche se banana!!!</h1>
     </div>
   );
 }
